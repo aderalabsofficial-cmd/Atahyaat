@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Crescent -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,28 C39.6,28 28,39.6 28,54 C28,68.4 39.6,80 54,80 C63.2,80 71.2,75.2 75.8,68 C65.6,71.2 53.4,66 48.6,55.8 C45.2,48.6 47.4,40.2 53.8,35.2 C59,31.2 66,30.2 72.4,32.2 C67.2,29.5 60.8,28 54,28 Z" />
+    <!-- Glowing Star -->
+    <path
+        android:fillColor="#FFE57F"
+        android:pathData="M68,36 L70.2,41.2 L75.8,41.8 L71.6,45.6 L72.8,51.2 L68,48.4 L63.2,51.2 L64.4,45.6 L60.2,41.8 L65.8,41.2 Z" />
+</vector>

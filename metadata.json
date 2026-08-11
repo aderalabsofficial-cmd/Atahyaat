@@ -1,0 +1,6 @@
+{
+  "name": "Atahyaat",
+  "description": "Daily prayer times, offline alarms, streak tracker, and dark mode for spiritual consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
